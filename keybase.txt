@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/glowsticks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.seanbateman.net
+  * I am glowsticks (https://keybase.io/glowsticks) on keybase.
+  * I have a public key ASC4soYCxcE2SKlUXqpPqMhCd0z_2xBCmpNmrc0usuh5GAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b8b28602c5c13648a9545eaa4fa8c842774cffdb10429a9366adcd2eb2e879180a",
+      "host": "keybase.io",
+      "kid": "0120b8b28602c5c13648a9545eaa4fa8c842774cffdb10429a9366adcd2eb2e879180a",
+      "uid": "aaa2dac5ad713cfd7ada43213dddd019",
+      "username": "glowsticks"
+    },
+    "merkle_root": {
+      "ctime": 1509130456,
+      "hash": "a53530b941a3a2ca49c077ee4362482211240cb9ed8dd8b7b2f45a1fbba7eb1930bba0c75ff013d5db13ce8a170ec5ae753fa534ec1a303b35a8787e3ef92dde",
+      "hash_meta": "d599f33d567e699e7e48d823cdadb64ef95e266cc5160e3940637d850651571a",
+      "seqno": 1638222
+    },
+    "service": {
+      "hostname": "www.seanbateman.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509130469,
+  "expire_in": 504576000,
+  "prev": "9f8c937df843814527e0061f6bca43836d84e3399fb2f9471d00de422b32a3ee",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguLKGAsXBNkipVF6qT6jIQndM/9sQQpqTZq3NLrLoeRgKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjhiMjg2MDJjNWMxMzY0OGE5NTQ1ZWFhNGZhOGM4NDI3NzRjZmZkYjEwNDI5YTkzNjZhZGNkMmViMmU4NzkxODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjhiMjg2MDJjNWMxMzY0OGE5NTQ1ZWFhNGZhOGM4NDI3NzRjZmZkYjEwNDI5YTkzNjZhZGNkMmViMmU4NzkxODBhIiwidWlkIjoiYWFhMmRhYzVhZDcxM2NmZDdhZGE0MzIxM2RkZGQwMTkiLCJ1c2VybmFtZSI6Imdsb3dzdGlja3MifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDkxMzA0NTYsImhhc2giOiJhNTM1MzBiOTQxYTNhMmNhNDljMDc3ZWU0MzYyNDgyMjExMjQwY2I5ZWQ4ZGQ4YjdiMmY0NWExZmJiYTdlYjE5MzBiYmEwYzc1ZmYwMTNkNWRiMTNjZThhMTcwZWM1YWU3NTNmYTUzNGVjMWEzMDNiMzVhODc4N2UzZWY5MmRkZSIsImhhc2hfbWV0YSI6ImQ1OTlmMzNkNTY3ZTY5OWU3ZTQ4ZDgyM2NkYWRiNjRlZjk1ZTI2NmNjNTE2MGUzOTQwNjM3ZDg1MDY1MTU3MWEiLCJzZXFubyI6MTYzODIyMn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuc2VhbmJhdGVtYW4ubmV0IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUwOTEzMDQ2OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI5ZjhjOTM3ZGY4NDM4MTQ1MjdlMDA2MWY2YmNhNDM4MzZkODRlMzM5OWZiMmY5NDcxZDAwZGU0MjJiMzJhM2VlIiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFZ8erbRPArRRlh6+khqXIAQg9EJuFoZ3lAbUpAMKqxjo0nafMxk/Q3+oAm9VOfoWCjH2yUpq9BM3gtsgeQQKgCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCA6vmV4E7n4vOqeTMcYvggEtGFnqU+5NaLibGxqLYMUlKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/glowsticks
+
+==================================================================
